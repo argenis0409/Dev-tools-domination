@@ -1,0 +1,23 @@
+{
+  "name": "dev-tools-domination",
+  "version": "1.0.0",
+  "description": "Dev Toll Domination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Dev-tools-domination.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Dev-tools-domination/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Dev-tools-domination#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
